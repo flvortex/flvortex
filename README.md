@@ -36,35 +36,3 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
 </div>
-
-<
-<style>
-    #animated-text {
-        color: #800080; 
-        font-family: Arial, sans-serif;
-        font-size: 2em;
-        overflow: hidden; 
-        border-right: .15em solid #800080; 
-        white-space: nowrap; 
-        margin: 0 auto;
-        width: 0;
-        animation: typing 4s steps(30) 1s forwards, blinkCaret 0.75s step-end infinite;
-    }
-
-    
-    @keyframes typing {
-        from {
-            width: 0;
-        }
-        to {
-            width: 100%;
-        }
-    }
-
-    
-    @keyframes blinkCaret {
-        50% {
-            border-color: transparent;
-        }
-    }
-</style>
