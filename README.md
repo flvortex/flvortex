@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <h3 id="animated-text">Hello! My name is fl 👋</h3>
     <p>Vortex best translator plugins</p>
     <a href="https://www.youtube.com/@oxycodxz">
@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Flvortex&show_icons=true&theme=dracula" alt="Flvortex Stats">
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <h4>Minhas habilidades</h4>
     <br>
     <img 
