@@ -2,7 +2,6 @@
     <h1>fl</h1>
     <p>CEO da FLM Hosting</p>
     
-    <!-- Badges de Mídias Sociais com Toque Roxo -->
     <a href="https://www.youtube.com/@oxycodxz">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
@@ -12,7 +11,6 @@
     
     <br>
     
-    <!-- Habilidades em uma linha, mais limpo -->
     <h4>Minhas Habilidades</h4>
     <p>
         <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -24,18 +22,12 @@
     
     <br>
     
-    <!-- Estatísticas do GitHub (Tema Dracula é Dark/Roxo) -->
     <img src="https://github-readme-stats.vercel.app/api?username=Flvortex&show_icons=true&theme=dracula&hide_border=true" alt="Flvortex Stats">
     
-    <!-- Top Languages (Completo e Profissional) -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flvortex&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
     
     <br>
     
-    <!-- Wakatime (Completo e Profissional) - Removido pois requer usuário Wakatime, mas deixo a sugestão -->
-    <!-- <img src="https://wakatime.com/badge/user/SEU_USUARIO_WAKATIME/language/python.svg" alt="Wakatime"> -->
-    
-    <!-- Snake Animation -->
     <div align="center" style="margin-left: 20px;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flvortex/flvortex/output/github-contribution-grid-snake-dark.svg">
