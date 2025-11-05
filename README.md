@@ -10,8 +10,6 @@ A company focused on **high-performance hosting, automation, and digital innovat
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgfTAVe3Kr1fK6gCqqMvaNw)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YUWVDFja4N)
 
----
-
 ### 🧠 Skills
 </div>
 
@@ -24,8 +22,6 @@ A company focused on **high-performance hosting, automation, and digital innovat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>
 </p>
 
----
-
 <div align="center">
 
 ### 📈 GitHub Stats
@@ -35,8 +31,6 @@ A company focused on **high-performance hosting, automation, and digital innovat
   <img src="https://github-readme-stats.vercel.app/api?username=Flvortex&show_icons=true&theme=dracula&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flvortex&layout=compact&theme=dracula&hide_border=true" height="150">
 </p>
-
----
 
 <div align="center">
 
@@ -51,7 +45,6 @@ A company focused on **high-performance hosting, automation, and digital innovat
   </picture>
 </p>
 
----
 
 <div align="center">
 
@@ -61,8 +54,6 @@ A company focused on **high-performance hosting, automation, and digital innovat
 
 🌐 [Join our community on Discord](https://discord.gg/YUWVDFja4N)  
 📺 [Check out our YouTube Channel](https://www.youtube.com/channel/UCgfTAVe3Kr1fK6gCqqMvaNw)
-
----
 
 💬 *“Building technology that inspires and empowers.”*
 
