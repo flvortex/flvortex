@@ -1,41 +1,71 @@
 <div align="center">
 
-  <h1>Hey, my name is <span style="color:#6C63FF;">Felipe</span> 👋</h1>
-  <p><strong>CEO da FLM Hosting</strong></p>
+# 👋 Hey, my name is **Felipe**
 
-  <a href="https://www.youtube.com/@oxycodxz">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://guns.lol/flvortex">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+### 💼 CEO & Developer at **FLM Hosting**
 
-  <br><br>
+🚀 Passionate about building scalable systems, automation, and modern applications.
 
-  <h3>💻 My Skills</h3>
-  <p>
-    <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img alt="Node.js" title="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img alt="C++" title="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  </p>
+---
 
+### 🌐 Connect With Me
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgfTAVe3Kr1fK6gCqqMvaNw)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YUWVDFja4N)
+
+---
+
+### 🧠 About Me
+> I’m the **CEO of FLM Hosting**, a company specialized in high-performance hosting for **FiveM**, **Minecraft**, and automation services.  
+> My mission is to create powerful and reliable systems that push the limits of technology.
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flvortex&show_icons=true&theme=dracula&hide_border=true" alt="Felipe's GitHub Stats" />
   <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flvortex&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Flvortex&show_icons=true&theme=dracula&hide_border=true&title_color=6C63FF&icon_color=6C63FF" alt="Felipe's GitHub Stats" />
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flvortex&layout=compact&theme=dracula&hide_border=true&title_color=6C63FF" alt="Top Languages" />
+---
 
-  <br><br>
+### 🐍 GitHub Contributions
 
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flvortex/flvortex/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flvortex/flvortex/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flvortex/flvortex/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/flvortex/flvortex/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+---
+
+### 🏢 About FLM Hosting
+
+> **FLM Hosting** is a professional hosting company providing reliable, fast, and innovative solutions for your projects.  
+> We specialize in **game server hosting**, **bot hosting**, and **custom infrastructure**.
+
+🌐 **Join us:**  
+[🎮 Discord Community](https://discord.gg/YUWVDFja4N) • [▶️ YouTube Channel](https://www.youtube.com/channel/UCgfTAVe3Kr1fK6gCqqMvaNw)
+
+---
+
+💬 *"Building technology that inspires and empowers."*
 
 </div>
