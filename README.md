@@ -1,14 +1,19 @@
 <div align="center">
 
-# 👋 Hey, my name is **Felipe**
+# 👋 Hey! I'm **Felipe**
 
 **CEO of [FLM Hosting](https://discord.gg/YUWVDFja4N)**  
-A company focused on **high-performance hosting, automation, and digital innovation**.
+We work with **high-performance hosting**, **automation**, and **digital infrastructure**.
 
-🎯 Passionate about backend systems, web technologies, and scalable infrastructure.  
+💻 I’m into everything related to servers, backend systems, and web tech.  
+🚀 Always focused on making projects faster, more stable, and ready to scale.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgfTAVe3Kr1fK6gCqqMvaNw)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YUWVDFja4N)
+
+</div>
+
+<div align="center">
 
 ### 🧠 Skills
 </div>
@@ -24,7 +29,7 @@ A company focused on **high-performance hosting, automation, and digital innovat
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 </div>
 
 <p align="center">
@@ -34,7 +39,7 @@ A company focused on **high-performance hosting, automation, and digital innovat
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 GitHub Activity
 </div>
 
 <p align="center">
@@ -45,16 +50,16 @@ A company focused on **high-performance hosting, automation, and digital innovat
   </picture>
 </p>
 
-
 <div align="center">
 
 ### 🏢 About FLM Hosting
 
-**FLM Hosting** is a professional hosting company delivering fast, reliable, and high-quality infrastructure for **FiveM**, **Minecraft**, and **custom applications**.  
+**FLM Hosting** delivers fast and reliable infrastructure for **FiveM**, **Minecraft**, and **custom applications**.  
+Our goal is simple — stability, performance, and real results.  
 
-🌐 [Join our community on Discord](https://discord.gg/YUWVDFja4N)  
+🌐 [Join our Discord](https://discord.gg/YUWVDFja4N)  
 📺 [Check out our YouTube Channel](https://www.youtube.com/channel/UCgfTAVe3Kr1fK6gCqqMvaNw)
 
-💬 *“Building technology that inspires and empowers.”*
+💬 *Technology built by people who live what they do.*
 
 </div>
