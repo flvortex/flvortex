@@ -2,33 +2,6 @@
 
 # 👋 Hey! I'm **fl**
 
-**CEO of [FLM Hosting](https://discord.gg/YUWVDFja4N)**  
-We work with **high-performance hosting**, **automation**, and **digital infrastructure**.
-
-💻 I’m into everything related to servers, backend systems, and web tech.  
-🚀 Always focused on making projects faster, more stable, and ready to scale.
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgfTAVe3Kr1fK6gCqqMvaNw)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YUWVDFja4N)
-
-</div>
-
-<div align="center">
-
-### 🧠 Skills
-</div>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>
-</p>
-
-<div align="center">
-
 ### 📊 GitHub Stats
 </div>
 
