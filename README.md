@@ -25,14 +25,6 @@
 
 <div align="center">
 
-### 🏢 About FLM Hosting
 
-**FLM Hosting** delivers fast and reliable infrastructure for **FiveM**, **Minecraft**, and **custom applications**.  
-Our goal is simple — stability, performance, and real results.  
-
-🌐 [Join our Discord](https://discord.gg/YUWVDFja4N)  
-📺 [Check out our YouTube Channel](https://www.youtube.com/channel/UCgfTAVe3Kr1fK6gCqqMvaNw)
-
-💬 *Technology built by people who live what they do.*
 
 </div>
