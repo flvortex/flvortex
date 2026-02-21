@@ -2,7 +2,8 @@
 
 # 👋 Hey! I'm five  
 
-### CEO do Trix Client
+### CEO of Trix Client  
+Building custom clients for you.
 
 
 
