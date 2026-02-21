@@ -3,7 +3,8 @@
 # 👋 Hey! I'm five  
 
 ### CEO of Trix Client  
-Building custom clients for you.
+Trix Client — Built for You.
+
 
 
 
