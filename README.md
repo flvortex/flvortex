@@ -1,60 +1,108 @@
 <div align="center">
 
-# 👋 Hey! I'm five
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=five&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
 ### CEO & Founder of Trix Client
 
-*Building the next generation of client experiences*
+```typescript
+const five = {
+    role: "CEO & Founder",
+    company: "Trix Client",
+    focus: ["Performance", "Security", "Innovation"],
+    building: "Next generation client experiences"
+};
+```
 
----
+<br/>
 
-### 🚀 About Me
+## Tech Stack
 
-Leading **Trix Client** — a cutting-edge platform built for performance, security, and user experience.
+```javascript
+const skills = {
+    languages: ["TypeScript", "JavaScript", "C++", "HTML5", "CSS3"],
+    frameworks: ["Node.js", "Next.js", "Electron"],
+    expertise: ["Desktop Applications", "Web Development", "System Architecture"]
+};
+```
 
-Passionate about creating innovative solutions that push boundaries.
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
+<br>Electron
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 💻 Tech Stack
+## GitHub Activity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Flvortex&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
----
+<br/>
 
-### 📊 GitHub Stats
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flvortex&theme=github_dark" />
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flvortex&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Flvortex&theme=default&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Flvortex&theme=github_dark" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Flvortex&theme=github_dark" />
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flvortex&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</p>
+<br/>
 
----
+## Current Focus
 
-### 🎯 Current Focus
+```diff
++ Building and scaling Trix Client
++ Exploring cutting-edge technologies
++ Performance optimization & security research
+```
 
-- 🔨 Building and scaling **Trix Client**
-- 🌐 Exploring advanced web technologies
-- ⚡ Performance optimization & security
+<br/>
 
----
+## Connect
 
-### 📫 Connect
+[![Website](https://img.shields.io/badge/🌐_Website-trixclient.com-black?style=for-the-badge)](https://trixclient.com)
 
-<p align="center">
-  <a href="https://trixclient.com"><img src="https://img.shields.io/badge/Website-trixclient.com-blue?style=for-the-badge" alt="Website"/></a>
-</p>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
