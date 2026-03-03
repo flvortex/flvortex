@@ -40,8 +40,8 @@
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mixin/mixin-original.svg" width="48" height="48" alt="Mixin" />
-<br>Mixin
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
