@@ -107,7 +107,14 @@
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/🌐_Website-trixclient.com-black?style=for-the-badge)](https://trixclient.com)
+<p align="center">
+<a href="https://trixclient.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Website-Trix_Client-blue?style=for-the-badge" alt="Website"/>
+</a>
+<a href="https://discord.com/users/fivexh">
+<img src="https://img.shields.io/badge/Discord-fivexh-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+</p>
 
 <br/>
 
