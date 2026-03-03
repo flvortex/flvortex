@@ -5,12 +5,7 @@
 ### CEO & Founder of Trix Client
 
 ```typescript
-const five = {
-    role: "CEO & Founder",
-    company: "Trix Client",
-    focus: ["Performance", "Security", "Innovation"],
-    building: "Next generation client experiences"
-};
+const five = { role: "CEO & Founder", company: "Trix Client", focus: ["Performance", "Security", "Innovation"], building: "Next generation client experiences" };
 ```
 
 <br/>
@@ -18,11 +13,7 @@ const five = {
 ## Tech Stack
 
 ```javascript
-const skills = {
-    languages: ["TypeScript", "JavaScript", "C++", "HTML5", "CSS3"],
-    frameworks: ["Node.js", "Next.js", "Electron"],
-    expertise: ["Desktop Applications", "Web Development", "System Architecture"]
-};
+const skills = { languages: ["TypeScript", "JavaScript", "C++", "HTML5", "CSS3"], frameworks: ["Node.js", "Next.js", "Electron"], expertise: ["Desktop Applications", "Web Development", "System Architecture"] };
 ```
 
 <table>
