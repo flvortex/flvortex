@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20five%20👋&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=200&section=header&text=Hey!%20I'm%20five%20👋&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
 
 <h3 align="center">CEO & Founder of Trix Client</h3>
 <p align="center">
@@ -111,6 +111,6 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=120&section=footer"/>
 
 </div>
