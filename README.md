@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=five&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=five&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=CEO%20%26%20Founder%20of%20Trix%20Client&descSize=20&descAlignY=55"/>
 
-### CEO & Founder of Trix Client
+<br/>### CEO & Founder of Trix Client
 
 ```typescript
 const five = {
@@ -101,6 +101,6 @@ const skills = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
 
 </div>
