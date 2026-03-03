@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=five&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=CEO%20%26%20Founder%20of%20Trix%20Client&descSize=20&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=five&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+
+### CEO & Founder of Trix Client
 
 <br/>### CEO & Founder of Trix Client
 
