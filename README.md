@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey i'm five&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20five%20👋&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
 
 <h3 align="center">CEO & Founder of Trix Client</h3>
 <p align="center">
