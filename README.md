@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=five&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
 
-### CEO & Founder of Trix Client
-
-<br/>### CEO & Founder of Trix Client
+<br/>
 
 ```typescript
 const five = {
