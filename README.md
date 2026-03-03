@@ -40,6 +40,10 @@
 </tr>
 <tr>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mixin/mixin-original.svg" width="48" height="48" alt="Mixin" />
+<br>Mixin
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br>React
 </td>
