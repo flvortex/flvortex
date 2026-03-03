@@ -4,17 +4,24 @@
 
 ### CEO & Founder of Trix Client
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=const+five+%3D+%7B;++role%3A+%22CEO+%26+Founder%22%2C+company%3A+%22Trix+Client%22%2C;++focus%3A+%5B%22Performance%22%2C+%22Security%22%2C+%22Innovation%22%5D;%7D%3B" alt="Typing SVG" />
-</p>
+```typescript
+const five = {
+    role: "CEO & Founder",
+    company: "Trix Client",
+    focus: ["Performance", "Security", "Innovation"]
+};
+```
 
 <br/>
 
 ## Tech Stack
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=const+skills+%3D+%7B;++languages%3A+%5B%22TypeScript%22%2C+%22JavaScript%22%2C+%22C%2B%2B%22%2C+%22HTML5%22%2C+%22CSS3%22%5D%2C;++frameworks%3A+%5B%22Node.js%22%2C+%22Next.js%22%2C+%22Electron%22%5D;%7D%3B" alt="Typing SVG" />
-</p>
+```javascript
+const skills = {
+    languages: ["TypeScript", "JavaScript", "C++", "HTML5", "CSS3"],
+    frameworks: ["Node.js", "Next.js", "Electron"]
+};
+```
 
 <table>
 <tr>
