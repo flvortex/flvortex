@@ -8,29 +8,20 @@ Building modern software and experiences.
 
 <br>
 
+<p>
 <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,electron,python" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Flvortex&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flvortex&layout=compact&theme=transparent&hide_border=true" />
+### Current Focus
 
-<br><br>
-
-### Focus
-
-- Trix Client
-- Performance
-- Security
-- User Experience
+Trix Client • Performance • Security • User Experience
 
 <br>
 
 <a href="https://discord.com/users/fivexh">
-<img src="https://img.shields.io/badge/Discord-fivexh-5865F2?style=flat-square&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-fivexh-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </div>
