@@ -1,20 +1,17 @@
 <div align="center">
 
-# five · trix client
+# Five 👋
 
-`java` `javascript` `typescript` `python` `react` `next.js` `node.js` `electron` `tailwind`
+Founder @ Trix Client
 
-<br>
-
-![GitHub followers](https://img.shields.io/github/followers/Flvortex?style=flat-square&logo=github&color=58a6ff)
-![GitHub stars](https://img.shields.io/github/stars/Flvortex?style=flat-square&logo=github&color=58a6ff)
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,electron" />
 
 <br>
 
-**focus** · performance · security · ux
+`Performance` · `Security` · `Innovation`
 
 <br>
 
-discord `fivexh` · [trix client](https://trixclient.vercel.app)
+Discord: **fivexh**
 
 </div>
