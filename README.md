@@ -2,16 +2,22 @@
 
 # Five 👋
 
-Founder @ Trix Client
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,electron" />
+**Founder @ Trix Client**
 
 <br>
 
-`Performance` · `Security` · `Innovation`
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nextjs,nodejs,electron,tailwind,html,css" />
+
+<br><br>
+
+## Focus
+
+`Performance` · `Security` · `User Experience` · `Innovation`
 
 <br>
 
-Discord: **fivexh**
+## Connect
+
+Discord: **fivexh** · Website: [Trix Client](https://trixclient.vercel.app)
 
 </div>
