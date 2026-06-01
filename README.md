@@ -1,27 +1,27 @@
 <div align="center">
 
-# five
+# Five 👋
 
-**founder @ trix client** · building modern software
+Founder @ Trix Client
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,electron,py" />
+Building modern software and experiences.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Flvortex&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=ffffff&text_color=c9d1d9" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flvortex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
-
-<br>
-
-### focus
-
-performance · security · user experience
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,electron,python" />
+</p>
 
 <br>
 
-[discord](https://discord.com/users/fivexh) — `fivexh`
+### Current Focus
+
+Trix Client • Performance • Security • User Experience
+
+<br>
+
+<a href="https://discord.com/users/fivexh">
+<img src="https://img.shields.io/badge/Discord-fivexh-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
 </div>
