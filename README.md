@@ -18,7 +18,8 @@ I build software with a focus on **performance, architecture and user experience
 
 Most of my work revolves around desktop applications, web platforms, APIs and systems that connect different services together.
 
-Currently building and maintaining **Trix Client**, where I work across product development, infrastructure and the overall technical direction of the project.
+I’m currently responsible for the development of **Trix Client**, working across nearly every technical aspect of the project, including the client, backend, APIs, infrastructure, integrations, and new features.
+
 
 ```txt
 Current focus
