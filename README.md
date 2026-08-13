@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Five
@@ -28,7 +27,7 @@ Current focus
 ├─ Performance
 ├─ System architecture
 └─ Product experience
-````
+```
 
 ## Stack
 
@@ -42,16 +41,16 @@ Current focus
 
 ## What I work with
 
-**Frontend**
+**Frontend**  
 TypeScript · React · Next.js
 
-**Backend**
+**Backend**  
 Node.js · Express · PostgreSQL · MongoDB · Prisma
 
-**Software**
+**Software**  
 Java · Python · Desktop Applications
 
-**Infrastructure**
+**Infrastructure**  
 Docker · Git · AWS · Vercel
 
 <br>
@@ -73,4 +72,3 @@ A project focused on creating a modern Minecraft client experience with custom f
 <sub>Always building something.</sub>
 
 </div>
-```
