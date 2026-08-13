@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 # Five
@@ -20,7 +21,6 @@ Most of my work revolves around desktop applications, web platforms, APIs and sy
 
 I’m currently responsible for the development of **Trix Client**, working across nearly every technical aspect of the project, including the client, backend, APIs, infrastructure, integrations, and new features.
 
-
 ```txt
 Current focus
 ├─ Desktop applications
@@ -28,13 +28,13 @@ Current focus
 ├─ Performance
 ├─ System architecture
 └─ Product experience
-```
+````
 
 ## Stack
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,python,java,postgresql,prisma,docker,git,vercel,aws" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,python,java,postgresql,mongodb,prisma,docker,git,vercel,aws" />
 
 </div>
 
@@ -46,7 +46,7 @@ Current focus
 TypeScript · React · Next.js
 
 **Backend**
-Node.js · Express · PostgreSQL · Prisma
+Node.js · Express · PostgreSQL · MongoDB · Prisma
 
 **Software**
 Java · Python · Desktop Applications
@@ -73,3 +73,4 @@ A project focused on creating a modern Minecraft client experience with custom f
 <sub>Always building something.</sub>
 
 </div>
+```
