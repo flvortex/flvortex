@@ -1,29 +1,31 @@
 <div align="center">
 
-# Five 👋
+# Five
 
-**Founder @ Trix Client**
+Founder of **[Trix Client](https://www.trixclient.online/)**
+
+Building software focused on performance, simplicity and user experience.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,postgresql,prisma,git,docker,aws,vercel,jest,cypress" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,postgresql,prisma,git,docker,aws,vercel" />
 
 <br><br>
 
-## Activity
+### Currently focused on
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Flvortex&theme=dark&hide_border=true&background=0a0a0a&stroke=888888&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=ffffff&sideLabels=888888" />
-
-<br>
-
-## Focus
-
-`Performance` · `Security` · `User Experience` · `Innovation`
+`Performance` · `Security` · `Developer Experience` · `UX`
 
 <br>
 
-## Connect
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Flvortex&theme=dark&hide_border=true&background=00000000" />
 
-Discord: **fivexh** · Website: [Trix Client](https://trixclient.vercel.app)
+<br>
+
+<sub>
+<a href="https://www.trixclient.online/">Website</a>
+&nbsp;·&nbsp;
+Discord: <b>fivexh</b>
+</sub>
 
 </div>
