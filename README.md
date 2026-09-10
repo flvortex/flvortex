@@ -3,7 +3,7 @@ Software Developer · Founder of Trix Client
 
 Building software with a focus on performance, architecture and user experience.
 
-[Portfolio](https://portifolio-two-blue.vercel.app) · [Trix Client](https://www.trixclient.online/) · Discord: `fivexh`
+[Portfolio](https://felipe.trixclient.online) · [Trix Client](https://www.trixclient.online/) · Discord: `fivexh`
 
 ## About
 
